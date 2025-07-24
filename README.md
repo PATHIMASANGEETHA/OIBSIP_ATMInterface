@@ -25,15 +25,12 @@ A console-based ATM Interface that allows users to perform basic banking operati
 
 ### Steps to Run:
 1. Open terminal or command prompt
-2. Navigate to the project directory:
 
-cd ATM-Interface
-
-3.Compile the Java file:
-
-javac ATMInterface.java
-
-4.Run the compiled program:
-
-java ATMInterface
-
+2.Compile the Java file:
+ ```
+javac ATM.java
+ ```
+3.Run the compiled program:
+ ```
+java ATM
+ ```
