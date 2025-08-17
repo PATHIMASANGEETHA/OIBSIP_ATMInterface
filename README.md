@@ -1,4 +1,4 @@
-# 🏧 ATM Interface - Oasis Infobyte Java Internship Task 2
+# 🏧 ATM Interface 
 
 ## 💡 Project Description
 A console-based ATM Interface that allows users to perform basic banking operations such as checking balance, withdrawing and depositing money, and viewing transaction history.
